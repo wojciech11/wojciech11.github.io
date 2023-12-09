@@ -51,7 +51,7 @@ languages:
                 - name: Archiwum
                   url: archives
                   weight: 5
-                - name: Search
+                - name: Szukaj
                   url: search/
                   weight: 10
                 - name: Tags
