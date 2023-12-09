@@ -57,7 +57,7 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: About me
+                - name: O mnie
                   url: about/
 outputs:
     home:
