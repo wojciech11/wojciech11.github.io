@@ -26,6 +26,9 @@ languages:
           series: series
         menu:
             main:
+                - name: Courses
+                  url: courses/
+                  weight: 4
                 - name: Archive
                   url: archives
                   weight: 5
@@ -48,6 +51,9 @@ languages:
           series: PLseries
         menu:
             main:
+                - name: Zajęcia
+                  url: courses/
+                  weight: 4
                 - name: Archiwum
                   url: archives
                   weight: 5
