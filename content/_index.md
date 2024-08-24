@@ -1,4 +1,3 @@
 ---
-description: "xx"
+description: "Strona wykładowcy Wojciech Barczyńskiego"
 ---
-Strona wykładowcy Wojciech Barczyńskiego.
