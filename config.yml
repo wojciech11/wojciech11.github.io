@@ -41,30 +41,30 @@ languages:
                 - name: About me
                   url: about/
 
-    pl:
-        languageCode: "pl-PL"
-        weight: 2
-        title: "Wszystko jest iteracją ＆ eksperymentem"
-        taxonomies:
-          category: PLcategories
-          tag: PLtags
-          series: PLseries
-        menu:
-            main:
-                - name: Zajęcia
-                  url: courses/
-                  weight: 4
-                - name: Archiwum
-                  url: archives
-                  weight: 5
-                - name: Szukaj
-                  url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: O mnie
-                  url: about/
+    # pl:
+    #     languageCode: "pl-PL"
+    #     weight: 2
+    #     title: "Wszystko jest iteracją ＆ eksperymentem"
+    #     taxonomies:
+    #       category: PLcategories
+    #       tag: PLtags
+    #       series: PLseries
+    #     menu:
+    #         main:
+    #             - name: Zajęcia
+    #               url: courses/
+    #               weight: 4
+    #             - name: Archiwum
+    #               url: archives
+    #               weight: 5
+    #             - name: Szukaj
+    #               url: search/
+    #               weight: 10
+    #             - name: Tags
+    #               url: tags/
+    #               weight: 10
+    #             - name: O mnie
+    #               url: about/
 outputs:
     home:
         - HTML
